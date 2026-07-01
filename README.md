@@ -43,5 +43,23 @@ The project contains three datasets:
 - Dataset/ → Source CSV files
 - Screenshots/ → Dashboard images
 
+ ## Project Structure
+- 
+PowerBI/
+└── Online_Bookstore_Sales_Analysis.pbix
+
+SQL/
+└── Online_Bookstore_Analysis.sql
+
+Dataset/
+├── Books.csv
+├── Customers.csv
+└── Orders.csv
+
+Screenshots/
+├── Overview.png
+├── Customer_Analysis.png
+└── Inventory_Stock_Analysis.png
+
 ## Conclusion
 This project demonstrates SQL analysis, data visualization, and business insight generation using Power BI.
