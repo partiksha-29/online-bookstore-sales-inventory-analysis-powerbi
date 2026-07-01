@@ -44,7 +44,7 @@ The project contains three datasets:
 - Screenshots/ → Dashboard images
 
  ## Project Structure
-- 
+
 PowerBI/
 └── Online_Bookstore_Sales_Analysis.pbix
 
